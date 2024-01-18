@@ -45,7 +45,7 @@ fontLoader.load(
     '/fonts/helvetiker_regular.typeface.json',
     (font)=>{
         const testGeometry = new TextGeometry(
-            'Holle threeoh.js',
+            'Hello threeoh.js',
             {
                 font:font,
                 size:0.5,
